@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/948667782/photo/cinema-salon-and-red-seats.jpg?s=612x612&w=0&k=20&c=ligfdNfIK1wqf5kkcye4846L4iTpLTYPnx3B8-Nh_4M=");
+    background-size: cover;
+}
+
+
+.AddMoviess_section{
+    
+    margin: 400px;
+    margin-top: 10px;
+    border: 6px solid black;
+    border-radius: 80px;
+    box-shadow: 30px;
+background-image: url("https://c8.alamy.com/comp/BKMBE5/french-cinema-theaters-front-movie-posters-paris-france-people-going-BKMBE5.jpg");
+    margin-top: 20px;
+}
+.title input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+.Director input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+.Genre input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+.Language input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+.Released input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+.Images input{
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 4px;
+}
+
+.btn_btn1{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 8px;
+    color: white;
+}
+.btn_btn1:hover{
+    background-color: darkblue;
+}

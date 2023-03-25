@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1517845732/1517845731.jpg");
+    /* background-size: cover; */
+    /* height: 500px; */
+    /* width: 400px; */
+}
+
+.adminLogin{
+    background-color:crimson;
+    padding: 30px;
+    margin-top: 70px;
+    margin-right: 80px;
+    margin-left: 700px;
+    border-radius: 90px;
+    box-shadow: 3px 5px 5px 3px black;
+    width: 400px;
+}
+.form_container h1{
+     font-family: 'Times New Roman', Times, serif;
+     font-style:italic;
+     font-size: 60px;
+}
+.email{
+    margin: 10px;
+}
+.email input{
+    /* height: 40px; */
+    /* width: 50px; */
+    padding: 10px;
+    border-radius: 20px;
+}
+.password input{
+    padding: 10px;
+    border-radius: 20px;
+}
+.btn_btn-primary {
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 10px;
+
+}
+.btn_btn-primary:hover{
+   background-color:blue; 
+   color: #fff;
+}
